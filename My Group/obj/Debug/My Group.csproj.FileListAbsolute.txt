@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\bin\Debug\My Group.exe.config
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\bin\Debug\My Group.exe
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\bin\Debug\My Group.pdb
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My Group.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My_Group.Form1.resources
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My_Group.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My Group.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My Group.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My Group.exe
+C:\Users\Asus\Desktop\GitHub\My Group\My Group\obj\Debug\My Group.pdb
